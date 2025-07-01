@@ -20,10 +20,9 @@ This project uses Terraform to create a local text file called `welcome.txt` usi
 
 1. Clone the repo and open in Codespaces or VS Code
 2. Run:
-
-```bash
 terraform init
 terraform apply
+
 
 ## 👤 Author
 
