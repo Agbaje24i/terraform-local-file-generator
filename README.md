@@ -1,3 +1,6 @@
+[![Terraform](https://img.shields.io/badge/Built%20With-Terraform-623CE4?logo=terraform&logoColor=white)](https://www.terraform.io/)
+[![Codespaces](https://img.shields.io/badge/Codespaces%20Ready-GitHub-blue?logo=github&logoColor=white)](https://github.com/features/codespaces)
+
 # Terraform Local File Generator
 
 This project uses Terraform to create a local text file called `welcome.txt` using the `local_file` resource.
